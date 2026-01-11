@@ -1,1 +1,14 @@
-# push-button-count-with-lcd
+#Arduino
+#EmbeddedC
+#PushButton
+#ButtonCounter
+#LCDDisplay
+#EEPROM
+#NonVolatileMemory
+#ArduinoLCD
+#ArduinoEEPROM
+#DigitalCounting
+#Microcontroller
+#ElectronicsProject
+#IoTBasics
+#BeginnerArduino
